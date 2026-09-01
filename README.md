@@ -2,6 +2,8 @@
 
 I code stuff.
 
+<img src="./greyseal.jpeg" width="345">
+
 ## Projects
 
 I have many projects. Most of which are private but... whatever.
@@ -17,5 +19,3 @@ I have many projects. Most of which are private but... whatever.
 
 Discord: wlalbo_
 Email: priverblbl (@) gmail (.) com
-
-<img src="./greyseal.jpeg" style="display: block; margin: auto;" />
