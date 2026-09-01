@@ -1,6 +1,6 @@
 # wlalbo.github.io
 
-I code stuff.
+I code stuff. 
 
 <img src="./greyseal.jpeg" width="345">
 
