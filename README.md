@@ -2,7 +2,7 @@
 
 I code stuff. 
 
-<img src="./greyseal.jpeg" width="345">
+<img src="./img/greyseal.jpeg" width="345">
 
 ## Projects
 
