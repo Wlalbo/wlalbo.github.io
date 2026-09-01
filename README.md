@@ -1,3 +1,5 @@
 # wlalbo.github.io
 
-work in progress...
+I code stuff.
+
+![grey seal](greyseal.jpg)
