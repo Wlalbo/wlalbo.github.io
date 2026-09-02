@@ -1,5 +1,7 @@
 # Seal Gallery
 
+Welcome to the Seal Gallery. Here you can take a look at some funny or aesthetically pleasing seal pictures I found.
+
 <img src="/img/greyseal.jpeg" width="345">
 <img src="/img/garlic.webp" width="345">
 <img src="/img/flex.webp" width="345">
