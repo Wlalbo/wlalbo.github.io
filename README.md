@@ -25,3 +25,5 @@ I have many projects. Most of which are private but... whatever.
 Discord: wlalbo_
 
 Email: priverblbl (@) gmail (.) com
+
+<img src="/ribbon.png" width="345">
