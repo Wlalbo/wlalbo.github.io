@@ -2,6 +2,8 @@
 
 I code stuff. I like seals. I also like drum n bass, jazz and jungle music.
 
+[Spotify playlist that kinda sums up my music tastes](https://open.spotify.com/playlist/2P3Raab0P14FjNXScj2UWw?si=2v5wSxn1QruE4WwStfdnbg)
+
 <img src="./img/greyseal.jpeg" width="345">
 
 ## Projects
