@@ -14,6 +14,7 @@ I have many projects. Most of which are private but... whatever.
 ## Subpages
 
 1. [Seal Gallery](https://wlalbo.github.io/secret/)
+2. [Weird Stuff](https://wlalbo.github.io/weirdstuff/)
 
 ## Project Graveyard
 
