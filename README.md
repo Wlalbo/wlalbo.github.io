@@ -1,6 +1,6 @@
 # wlalbo.github.io
 
-I code stuff. 
+I code stuff. I like seals. I also like drum n bass, jazz and jungle music.
 
 <img src="./img/greyseal.jpeg" width="345">
 
@@ -11,6 +11,10 @@ I have many projects. Most of which are private but... whatever.
 1. Seal. This will be an OS in the future but for now it is private. Main project I am working on. (Language: Rust)
 2. PhocafyPy. This is also... private. Simple program that gives you a random seal fact if you type in something. (Language: Python)
 
+## Subpages
+
+1. [Seal Gallery](https://wlalbo.github.io/secret/)
+
 ## Project Graveyard
 
 1. Phocafy. This was the original Phocafy. I kind of stopped working on it because C was boring and limiting. And also because it is ancient. (Language: C)
@@ -18,4 +22,5 @@ I have many projects. Most of which are private but... whatever.
 ## Contacts
 
 Discord: wlalbo_
+
 Email: priverblbl (@) gmail (.) com
